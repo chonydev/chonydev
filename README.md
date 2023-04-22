@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div style="width: 100%;">
+
+  <img src="jony-dev.xml" style="width: 100%;" alt="Click to see the source">
+</div>
+
+  <img src="tech-progress-circles.svg" style="width: 100%;" alt="Click to see the source">
