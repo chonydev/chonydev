@@ -158,9 +158,6 @@ body{
 
         <div class="progressbar">
             <div class="progressbar__svg">
-                <circle cx="45" cy="45" r="40"
-                    class="progressbar__svg-circle progressbar__svg-circle_html circle-html shadow-html">
-                </circle>
             </div>
 
 
