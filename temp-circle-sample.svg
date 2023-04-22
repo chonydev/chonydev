@@ -83,10 +83,6 @@ body{
     transform: translate(-50%, -50%);
     
 }
-</style>
-
-
-
 
 
 .progressbar__svg-circle_html {
@@ -151,6 +147,14 @@ body{
       stroke-dashoffset: 200.8;
     }
   }
+
+
+</style>
+
+
+
+
+
 
 
 
