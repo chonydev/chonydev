@@ -168,30 +168,30 @@ body{
     <div class="container__progressbars">
 
         <div class="progressbar">
-            <svg class="progressbar__svg">
+            <div class="progressbar__svg">
                 <circle cx="45" cy="45" r="40"
                     class="progressbar__svg-circle progressbar__svg-circle_html circle-html shadow-html">
                 </circle>
-            </svg>
+            </div>
 
             <span class="progressbar__text shadow-html prog_circle_text_color_html">HTML</span>
 
         </div>
 
         <div class="progressbar">
-            <svg class="progressbar__svg">
+            <div class="progressbar__svg">
                 <circle cx="45" cy="45" r="40"
                     class="progressbar__svg-circle progressbar__svg-circle_css circle-css shadow-css"> </circle>
-            </svg>
+            </div>
             <span class="progressbar__text shadow-css prog_circle_text_color_css">CSS</span>
         </div>
 
         <div class="progressbar">
-            <svg class="progressbar__svg">
+            <div class="progressbar__svg">
                 <circle cx="45" cy="45" r="40"
                     class="progressbar__svg-circle progressbar__svg-circle_scss circle-scss shadow-scss">
                 </circle>
-            </svg>
+            </div>
             <span class="progressbar__text shadow-scss prog_circle_text_color_scss">SCSS</span>
         </div>
 
