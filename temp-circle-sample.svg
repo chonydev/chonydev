@@ -151,6 +151,23 @@ body{
 
 </style>
 
+<div class="js-stack">
+    
+
+    <div class="container__progressbars">
+
+        <div class="progressbar">
+            <svg class="progressbar__svg">
+                <circle cx="45" cy="45" r="40"
+                    class="progressbar__svg-circle progressbar__svg-circle_html circle-html shadow-html">
+                </circle>
+            </svg>
+
+
+        </div>
+
+
+    </div>
 
 
 
