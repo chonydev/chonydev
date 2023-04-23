@@ -10,9 +10,11 @@
     animation: prog 5s ease-out forwards;
 }
 
-    .prog-text2 {
+    .prog-text {
+        /*
         position: relative;
         font-size: 3em;
+        */
         font-weight: bold;
         fill: #333;
     }
@@ -30,7 +32,7 @@
        A 100 100 0 0 1 200 300
        A 100 100 0 0 1 200 100
         " />
-    <text class="prog-text22" x="200px" y="200px" dy="0em" font-size="30px" text-anchor="middle">PostgreSQL</text>
+    <text class="prog-text" x="200px" y="200px" dy="0em" font-size="30px" text-anchor="middle">PostgreSQL</text>
 
 </g>
 
