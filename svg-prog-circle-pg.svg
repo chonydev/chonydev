@@ -1,11 +1,11 @@
-<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" fill="none">
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" fill="none">
 
     <style>
         .prog-arc {
             stroke-linecap: round;
-            stroke-dashoffset: 628.3185307179587;
-            stroke-dasharray: 628.3185307179587;
-            animation: prog 5s ease-out forwards;
+            stroke-dashoffset: 251.32741228718342;
+            stroke-dasharray: 251.32741228718342;
+            animation: prog 1s ease-out forwards;
         }
 
         .prog-text {
@@ -22,7 +22,7 @@
 
         @keyframes prog {
             to {
-                stroke-dashoffset: 251.32741228718348;
+                stroke-dashoffset: 10.53096491487338;
             }
         }
 
@@ -33,13 +33,14 @@
 
 
 <g>
-    <path class="prog-arc circle-pg shadow-pg" fill="none" stroke-width="10" d="M 200 100
-       A 100 100 0 0 1 200 300
-       A 100 100 0 0 1 200 100
-        " />
-    <text class="prog-text prog_circle_text_color_pg" x="200px" y="200px" dy="0em" font-size="30px" text-anchor="middle">PostgreSQL</text>
 
-</g>
+    <path class="prog-arc circle-pg shadow-pg" fill="none" stroke-width="10" d="M 40 10
+       A 40 40 0 0 1 40 90
+       A 40 40 0 0 1 40 10
+        " ></path>
+    <text class="prog-text prog_circle_text_color_pg" 
+        x="40px" y="40px" dy="1.2em" font-size="0.6em" text-anchor="middle" > PostgreSQL</text>
+</g>    
 
     </svg>
-    
+   
