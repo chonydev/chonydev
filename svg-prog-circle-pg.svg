@@ -34,9 +34,9 @@
 
 <g>
 
-    <path class="prog-arc circle-pg shadow-pg" fill="none" stroke-width="10" d="M 40 10
-       A 40 40 0 0 1 40 90
-       A 40 40 0 0 1 40 10
+    <path class="prog-arc circle-pg shadow-pg" fill="none" stroke-width="10" d="M 50 10
+       A 40 40 0 0 1 50 90
+       A 40 40 0 0 1 50 10
         " ></path>
     <text class="prog-text prog_circle_text_color_pg" 
         x="40px" y="40px" dy="1.2em" font-size="0.6em" text-anchor="middle" > PostgreSQL</text>
