@@ -1,0 +1,43 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" >
+    <style>
+
+        .prog-arc {
+            stroke-linecap: round;
+            stroke-dashoffset: 251.32741228718342;
+            stroke-dasharray: 251.32741228718342;
+            animation: prog 1s ease-out forwards;
+        }
+
+        .prog-text {
+            font-weight: bold;
+        }
+
+        .shadow-css {
+            filter: drop-shadow(0 0 5px rgb(0,106,177));
+        }
+
+        .circle-css {
+            stroke: rgb(0,106,177);
+        }
+
+        @keyframes prog {
+            to {
+                stroke-dashoffset: 100.53096491487337;
+            }
+        }
+
+        .prog_circle_text_color_css {
+            fill: rgb(0,106,177);
+        }
+    </style>
+
+<g>
+    <path class="prog-arc circle-css shadow-css" fill="none" stroke-width="10" d="M 50 10
+       A 40 40 0 0 1 50 90
+       A 40 40 0 0 1 50 10
+        " ></path>
+    <text class="prog-text prog_circle_text_color_css" 
+        x="40px" y="40px" dx="0.8em" dy="1em" font-size="0.8em" text-anchor="middle">CSS</text>
+</g>    
+
+    </svg>
