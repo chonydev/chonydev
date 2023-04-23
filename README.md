@@ -1,6 +1,8 @@
 
-<h3> Techs </h3>
 
+<h2> <span style="color:rgb(180, 0, 0)"> Techs </span> </h2>
+
+###  WebDev
 <table>
     <tr>
         <td>
@@ -36,8 +38,9 @@
                 alt="Click to see the source">
         </td>
     </tr>
-    <tr>
-    </tr>
+    </table>
+    <h3>MobDev: Android (through JS)</h3>
+    <table>
     <tr>
         <td>
             <img src="tech-logos/svg-prog-circle-react-native.svg" style="width: 7rem; height: 7rem;"
@@ -48,6 +51,9 @@
                 alt="Click to see the source">
         </td>
     </tr>
+    </table>
+    <h3>DB</h3>
+    <table>
     <tr>
         <td>
             <img src="tech-logos/svg-prog-circle-mysql.svg" style="width: 7rem; height: 7rem;"
@@ -62,6 +68,9 @@
                 alt="Click to see the source">
         </td>
     </tr>
+    </table>
+    <h3>DS</h3>
+    <table>
     <tr>
         <td>
             <img src="tech-logos/svg-prog-circle-python.svg" style="width: 7rem; height: 7rem;"
@@ -96,10 +105,13 @@
                 alt="Click to see the source">
         </td>
     </tr>
+    </table>
+    <h3>Others</h3>
+    <table>
     <tr>
         <td>
             <img src="tech-logos/svg-prog-circle-php.svg" style="width: 7rem; height: 7rem;"
                 alt="Click to see the source">
         </td>
     </tr>
-</table>
+    </table>
