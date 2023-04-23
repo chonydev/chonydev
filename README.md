@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 </div>
 
   <img src="tech-progress-circles.svg" style="width: 100%;" alt="Click to see the source">
+
+
+
+
+<h3> svg </h3>
+  
+  <img src="temp-circle-sample.svg" style="width: 10%; height:10%" alt="Click to see the source">
