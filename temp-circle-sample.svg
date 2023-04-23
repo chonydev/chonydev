@@ -1,22 +1,40 @@
+<svg viewBox="0 0 400 45=00" xmlns="http://www.w3.org/2000/svg" fill="black">
+    <style>
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+        
+.prog-arc3 {
+    stroke-linecap: round;
+    stroke-dashoffset: 628.3185307179587;
+    stroke-dasharray: 628.3185307179587;
+    animation: prog 5s ease-out forwards;
+}
 
+    .prog-text2 {
+        position: relative;
+        font-size: 3em;
+        font-weight: bold;
+        fill: #333;
+    }
 
-                        <circle cx="45" cy="45" r="40"
-                            class="progressbar__svg-circle progressbar__svg-circle_html circle-html shadow-html">
-                        </circle>
+@keyframes prog {
+    to {
+        stroke-dashoffset: 100;
+    }
+}
 
+</style>
 
+<g>
+    <path class="prog-arc3" fill="none" stroke-width="10" stroke="#ccc" d="M 200 100
+       A 100 100 0 0 1 200 300
+       A 100 100 0 0 1 200 100
+        " />
+    <text class="prog-text22" x="200px" y="200px" dy="0em" font-size="30px" text-anchor="middle">PostgreSQL</text>
 
+</g>
 
-
-
-
-
-
-
-  </div>
-  </foreignObject>
-</svg>
+    <foreignObject x="20" y="20" width="160" height="160">
+      </foreignObject>
+    
+    </svg>
+    
