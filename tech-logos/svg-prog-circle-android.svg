@@ -22,7 +22,7 @@
 
         @keyframes prog {
             to {
-                stroke-dashoffset: 150.79644737231007;
+                stroke-dashoffset: 50.79644737231007;
             }
         }
 
@@ -34,12 +34,16 @@
 
 <g>
 
-    <path class="prog-arc circle-android shadow-android" fill="none" stroke-width="10" d="M 50 10
+    <path class="prog-arc circle-android shadow-android" fill="none" stroke-width="5" d="M 50 10
        A 40 40 0 0 1 50 90
        A 40 40 0 0 1 50 10
         " ></path>
     <text class="prog-text prog_circle_text_color_android" 
-        x="40px" y="40px" dx="0.8em" dy="1em" font-size="0.8em" text-anchor="middle">Android Studio</text>
+        x="40px" y="40px"  font-size="0.8em">
+        <tspan dx='-10px' dy='0.4rem'>Android</tspan>
+        <tspan dx='-45px' dy='15px'>Studio</tspan>
+    </text>
+    
 </g>    
 
     </svg>
