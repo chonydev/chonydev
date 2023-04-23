@@ -39,7 +39,13 @@
        A 40 40 0 0 1 50 10
         " ></path>
     <text class="prog-text prog_circle_text_color_react-native" 
-        x="40px" y="40px" dx="0.8em" dy="1em" font-size="0.8em" text-anchor="middle">React-Native</text>
+        x="40px" y="40px"  font-size="0.8em" dx='-0.4rem' dy='0.4rem'>React
+    </text>
+        <text class="prog-text prog_circle_text_color_react-native" 
+        x="40px" y="40px"  font-size="0.8em" dx='-0.5rem' dy='1.2rem'>Native
+    </text>
+
+    
 </g>    
 
     </svg>
