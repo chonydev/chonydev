@@ -27,7 +27,7 @@
         }
 
         .prog_circle_text_color_pg {
-            color: rgb(48, 98, 138);
+            fill: rgb(48, 98, 138);
         }
     </style>
 
