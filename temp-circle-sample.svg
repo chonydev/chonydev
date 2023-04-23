@@ -1,8 +1,9 @@
-<svg viewBox="0 0 400 45=00" xmlns="http://www.w3.org/2000/svg" fill="black">
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" fill="none">
     <style>
 
-        
+  
 .prog-arc3 {
+        
     stroke-linecap: round;
     stroke-dashoffset: 628.3185307179587;
     stroke-dasharray: 628.3185307179587;
