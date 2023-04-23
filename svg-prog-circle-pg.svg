@@ -37,7 +37,7 @@
        A 100 100 0 0 1 200 300
        A 100 100 0 0 1 200 100
         " />
-    <text class="prog-text prog_circle_text_color_pg" x="200px" y="200px" dy="0em" font-size="30px" text-anchor="middle">HTML</text>
+    <text class="prog-text prog_circle_text_color_pg" x="200px" y="200px" dy="0em" font-size="30px" text-anchor="middle">PostgreSQL</text>
 
 </g>
 
