@@ -39,7 +39,7 @@
        A 40 40 0 0 1 50 10
         " ></path>
     <text class="prog-text prog_circle_text_color_pg" 
-        x="40px" y="40px" dx="1.2em" dy="1.2em" font-size="0.6em" text-anchor="middle" > PostgreSQL</text>
+        x="40px" y="40px" dx="0.8em" dy="1em" font-size="0.8em" text-anchor="middle">PostgreSQL</text>
 </g>    
 
     </svg>
