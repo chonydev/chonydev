@@ -1,4 +1,10 @@
 
+<a href="https://github.com/chonydev/corriente_backend">Forum express backend</a>
+
+<a href="https://youtu.be/yz7a_MPTXj8">Librar web: interactive map (youtube video)</a>
+
+<a href="https://youtu.be/fYePS0zZ_yU">Medtakes: React Native app (youtube video)</a>
+
 
 <h2> <span style="color:rgb(180, 0, 0)"> Techs </span> </h2>
 
