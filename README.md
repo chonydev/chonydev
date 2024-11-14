@@ -3,8 +3,17 @@
 
 <a href="https://youtu.be/yz7a_MPTXj8">Librar web: interactive map (youtube video)</a>
 
+<img src='pics/librar-showcase-2.jpg' alt='librar-2' style='display:block; margin:0px;'> 
+ <img src='pics/librar-showcase-1.jpg' alt='librar-2' width=100%  style='display:block; margin:0px'> 
+
+
 <a href="https://youtu.be/fYePS0zZ_yU">Medtakes: React Native app (youtube video)</a>
 
+<div style='display: flex; flex-direction:"row"; align-content:"start"; align-items: "start";'>
+        <img src='pics/medtakes-showcase-1.png' alt='medtakes-1' width="60%"   style='align-content:"start"; align-self: "start";'> 
+         <img src='pics/medtakes-showcase-2.jpg' alt='medtakes-2' width="30%"  style=''> 
+</div>
+    
 
 <h2> <span style="color:rgb(180, 0, 0)"> Techs </span> </h2>
 
