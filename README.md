@@ -3,12 +3,21 @@
 
 <a href="https://youtu.be/yz7a_MPTXj8">Librar web: interactive map (youtube video)</a>
 
+<img src='pics/librar-showcase-2.jpg' alt='librar-2' style='display:block; margin:0px;'>
+<img src='pics/librar-showcase-1.jpg' alt='librar-2' width=100%  style='display:block; margin:0px'>
+
 <a href="https://youtu.be/fYePS0zZ_yU">Medtakes: React Native app (youtube video)</a>
 
+  <img src='pics/medtakes-showcase-1.png' alt='medtakes-1' width="60%"   style=''>
+<div style='display: flex; flex-direction:"row"; '>
+  <img src='pics/medtakes-showcase-2.jpg' alt='medtakes-2' width="30%"  style=''>
+  <img src='pics/medtakes-showcase-2.jpg' alt='medtakes-3' width="30%"  style=''>
+  <img src='pics/medtakes-showcase-2.jpg' alt='medtakes-4' width="30%"  style=''>
+</div>
 
 <h2> <span style="color:rgb(180, 0, 0)"> Techs </span> </h2>
 
-###  WebDev
+### WebDev
 <table>
     <tr>
         <td>
