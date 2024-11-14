@@ -1,21 +1,41 @@
 
-<a href="https://github.com/chonydev/corriente_backend">Forum express backend</a>
+<h2>
+  <a href="https://github.com/chonydev/corriente_backend">
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chevron-right.svg" 
+    width="20" height="20" style='color:"white"'>
+    Forum express backend (repo)
+  </a>
+</h2>
 
-<a href="https://youtu.be/yz7a_MPTXj8">Librar web: interactive map (youtube video)</a>
+<h2>
+  <a href="https://youtu.be/yz7a_MPTXj8">
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chevron-right.svg" 
+    width="20" height="20" style='color:"white"'>
+    Librar web: interactive map (YT video)
+  </a>
+</h2>
 
 <img src='pics/librar-showcase-1.jpg' alt='librar-1' style='display:block; margin:0px;'>
-<img src='pics/librar-showcase-2.jpg' alt='librar-2' width=100%  style='display:block; margin:0px'>
+<img src='pics/librar-showcase-2.jpg' alt='librar-2' width=100% style='display:block; margin:0px'>
 <img src='pics/librar-showcase-3.jpg' alt='librar-3' style='display:block; margin:0px;'>
 
-<a href="https://youtu.be/fYePS0zZ_yU">Medtakes: React Native app (youtube video)</a>
+<h2>
+  <a href="https://youtu.be/fYePS0zZ_yU" '>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chevron-right.svg" 
+      width="20" height="20" style='color:"white"'>
+    Medtakes: React Native app (YT video)
+  </a>
+</h2>
 
-  <img src='pics/medtakes-showcase-1.png' alt='medtakes-1' width="60%"   style=''>
+<img src='pics/medtakes-showcase-1.png' alt='medtakes-1' width="60%" style=''>
 <div style='display: flex; flex-direction:"row"; '>
-  <img src='pics/medtakes-showcase-2.jpg' alt='medtakes-2' width="30%"  style=''>
-  <img src='pics/medtakes-showcase-3.jpg' alt='medtakes-3' width="30%"  style=''>
-  <img src='pics/medtakes-showcase-4.jpg' alt='medtakes-4' width="30%"  style=''>
+  <img src='pics/medtakes-showcase-2.jpg' alt='medtakes-2' width="30%" style=''>
+  <img src='pics/medtakes-showcase-3.jpg' alt='medtakes-3' width="30%" style=''>
+  <img src='pics/medtakes-showcase-4.jpg' alt='medtakes-4' width="30%" style=''>
 </div>
-    
+
+
+
 
 <h2> <span style="color:rgb(180, 0, 0)"> Techs </span> </h2>
 
