@@ -13,7 +13,7 @@
   <a href="https://github.com/chonydev/corriente_frontend">
     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chevron-right.svg" 
     width="20" height="20" style='color:"white"'>
-    FrontEnd: Angular (repo)
+    Frontend: Angular (repo)
   </a>
 </h3>
 <img src='pics/luzyfuerza-showcase-1.jpg' alt='luzyfuerza-1' style='display:block; margin:0px;'>
