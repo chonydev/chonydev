@@ -1,19 +1,21 @@
 <h1 align="center" style='color:rgb(200, 120, 20)'>ChonyDev</h1>
 
-<h2>
+
+<h2>Forum web</h3>
+<h3>
   <a href="https://github.com/chonydev/corriente_backend">
     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chevron-right.svg" 
     width="20" height="20" style='color:"white"'>
-    Forum express backend (repo)
+    Backend: Express (repo)
   </a>
-</h2>
-<h2>
+</h3>
+<h3>
   <a href="https://github.com/chonydev/corriente_frontend">
     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chevron-right.svg" 
     width="20" height="20" style='color:"white"'>
-    Forum Angular FrontEnd (repo)
+    FrontEnd: Angular (repo)
   </a>
-</h2>
+</h3>
 <img src='pics/luzyfuerza-showcase-1.jpg' alt='luzyfuerza-1' style='display:block; margin:0px;'>
 
 
