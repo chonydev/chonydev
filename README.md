@@ -7,6 +7,16 @@
     Forum express backend (repo)
   </a>
 </h2>
+<h2>
+  <a href="https://github.com/chonydev/corriente_frontend">
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chevron-right.svg" 
+    width="20" height="20" style='color:"white"'>
+    Forum Angular FrontEnd (repo)
+  </a>
+</h2>
+<img src='pics/luzyfuerza-showcase-1.jpg' alt='luzyfuerza-1' style='display:block; margin:0px;'>
+
+
 
 <h2>
   <a href="https://youtu.be/yz7a_MPTXj8">
